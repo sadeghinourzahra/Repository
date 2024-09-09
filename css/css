@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My projects</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h2     class="box1
+    "   >hello</h2>
+    <p    class="box2"       >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam consequatur ab dolorum debitis iste facere nam officiis, doloremque voluptas tempore rerum veritatis, maxime nobis reprehenderit aut. Veniam ullam nostrum error.</p>
+   <label for="name:"><input type="button" value="send"></label>
+    <input type="text"  placeholder="name"  name="name" >
+
+   <br> <br>
+    <label for="body"     ><input type="button" value="send"> </label>
+    <input type="password"   placeholder="password"    name="password"   id="class2">
+    <hr> <hr>
+
+    <label for="body"     ><input type="button" value="send"> </label>
+    <input type="password"   placeholder="password"    name="password"   id="class2">
+    <hr> <hr>
+</body>
+</html>
